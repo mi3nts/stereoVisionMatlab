@@ -14,10 +14,6 @@
 % #   http://utdmints.info/
 % #  ***************************************************************************
 ```
-
-%% main_0001 - Final Function for Matlab Implementation 
-
-
 # stereoVisionMatlab
  An implementation of a thermal visual overlay program. 
  
